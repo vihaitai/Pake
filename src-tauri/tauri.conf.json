@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "DevDoc",
     "version": "1.0.0"
   },
   "tauri": {
