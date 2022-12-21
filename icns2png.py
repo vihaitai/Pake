@@ -1,7 +1,3 @@
-"""
-批量将icns文件转成png文件
-Batch convert ICNS files to PNG files
-"""
 import os
 
 try:

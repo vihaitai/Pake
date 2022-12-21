@@ -6,7 +6,7 @@
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://devdocs.io/",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
@@ -19,6 +19,14 @@
     },
     "updater": {
       "active": false
+    },
+    "bundle": {
+      "icon": [
+        "icons/devDoc.icns",
+        "png/devDoc_256.ico",
+        "png/devDoc_32.ico",
+        "png/devDoc_512.png"
+      ]
     }
   },
   "build": {
